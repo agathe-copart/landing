@@ -1,0 +1,41 @@
+body {
+    background-color: #FCF0CC;
+    font-family: roboto;
+}
+
+.bg-image {
+    height: 80vh;
+    background-size: cover;
+    background-position: center center;
+}
+
+.btn-purple {
+    color: yellow;
+    background-color: #134074;
+    border-color: #134074;
+}
+
+div.main {
+    margin-top: 75px;
+    width: 75vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-size: 20px;
+}
+
+h1{
+    color: yellow;
+}
+
+h3{
+    font-size: 20px;
+}
+
+b{
+    font-size: 30px;
+    color: #134074 ;
+}
+
